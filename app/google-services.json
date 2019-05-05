@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "154478055450",
+    "firebase_url": "https://qaapp-b9023.firebaseio.com",
+    "project_id": "qaapp-b9023",
+    "storage_bucket": "qaapp-b9023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154478055450:android:3a633aa795868cd8",
+        "android_client_info": {
+          "package_name": "jp.techacademy.takuya.katsuoka.qr_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154478055450-cd8ej02vlt5d534p5mnroajaa2ec0f4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKb21c81GExu1cfCKLX7U58ww0NInQkiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154478055450-cd8ej02vlt5d534p5mnroajaa2ec0f4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
